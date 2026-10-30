@@ -1,0 +1,10 @@
+{
+    "thresholds": {
+        "ship_as_is": 0.15,
+        "confirmation": 0.30,
+        "prepaid": 0.50,
+        "hold_cancel": 0.50
+    },
+    "prepaid_discount": 20,
+    "confirmation_timeout_hours": 24
+}

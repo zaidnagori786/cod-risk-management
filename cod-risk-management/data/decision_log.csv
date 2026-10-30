@@ -1,0 +1,399 @@
+rto_probability,action,reason,customer_prior_orders,actual_status
+22.39,Ship after confirmation,Customer confirmation is recommended before shipping.,2,DELIVERED
+36.71,Nudge to prepaid,Offer a small discount to encourage online payment.,0,RTO
+40.95,Nudge to prepaid,Offer a small discount to encourage online payment.,0,DELIVERED
+46.71,Nudge to prepaid,Offer a small discount to encourage online payment.,0,DELIVERED
+47.74,Nudge to prepaid,Offer a small discount to encourage online payment.,0,DELIVERED
+48.48,Nudge to prepaid,Offer a small discount to encourage online payment.,0,DELIVERED
+39.37,Nudge to prepaid,Offer a small discount to encourage online payment.,0,DELIVERED
+47.59,Nudge to prepaid,Offer a small discount to encourage online payment.,0,DELIVERED
+43.14,Nudge to prepaid,Offer a small discount to encourage online payment.,0,DELIVERED
+67.22,Ship after confirmation,High predicted RTO risk for a first-time customer. Require confirmation and manual review.,0,RTO
+43.19,Nudge to prepaid,Offer a small discount to encourage online payment.,3,DELIVERED
+40.52,Nudge to prepaid,Offer a small discount to encourage online payment.,5,DELIVERED
+62.68,Ship after confirmation,High predicted RTO risk for a first-time customer. Require confirmation and manual review.,0,DELIVERED
+41.4,Nudge to prepaid,Offer a small discount to encourage online payment.,0,RTO
+28.96,Ship after confirmation,Customer confirmation is recommended before shipping.,0,DELIVERED
+66.93,Ship after confirmation,High predicted RTO risk for a first-time customer. Require confirmation and manual review.,0,DELIVERED
+48.65,Nudge to prepaid,Offer a small discount to encourage online payment.,0,DELIVERED
+44.98,Nudge to prepaid,Offer a small discount to encourage online payment.,5,DELIVERED
+31.35,Nudge to prepaid,Offer a small discount to encourage online payment.,1,DELIVERED
+67.95,Ship after confirmation,High predicted RTO risk for a first-time customer. Require confirmation and manual review.,0,DELIVERED
+60.05,Ship after confirmation,High predicted RTO risk for a first-time customer. Require confirmation and manual review.,0,DELIVERED
+33.74,Nudge to prepaid,Offer a small discount to encourage online payment.,0,DELIVERED
+38.63,Nudge to prepaid,Offer a small discount to encourage online payment.,0,DELIVERED
+69.86,Hold / cancel,High predicted RTO risk. Hold for manual review before cancellation.,3,DELIVERED
+43.75,Nudge to prepaid,Offer a small discount to encourage online payment.,0,RTO
+69.07,Ship after confirmation,High predicted RTO risk for a first-time customer. Require confirmation and manual review.,0,RTO
+38.74,Nudge to prepaid,Offer a small discount to encourage online payment.,0,DELIVERED
+28.29,Ship after confirmation,Customer confirmation is recommended before shipping.,0,RTO
+44.31,Nudge to prepaid,Offer a small discount to encourage online payment.,0,RTO
+44.97,Nudge to prepaid,Offer a small discount to encourage online payment.,0,RTO
+26.69,Ship after confirmation,Customer confirmation is recommended before shipping.,2,RTO
+37.32,Nudge to prepaid,Offer a small discount to encourage online payment.,0,DELIVERED
+51.43,Hold / cancel,High predicted RTO risk. Hold for manual review before cancellation.,1,DELIVERED
+53.2,Ship after confirmation,High predicted RTO risk for a first-time customer. Require confirmation and manual review.,0,DELIVERED
+36.56,Nudge to prepaid,Offer a small discount to encourage online payment.,0,DELIVERED
+48.7,Nudge to prepaid,Offer a small discount to encourage online payment.,0,RTO
+42.27,Nudge to prepaid,Offer a small discount to encourage online payment.,0,DELIVERED
+67.4,Ship after confirmation,High predicted RTO risk for a first-time customer. Require confirmation and manual review.,0,DELIVERED
+43.93,Nudge to prepaid,Offer a small discount to encourage online payment.,0,DELIVERED
+32.25,Nudge to prepaid,Offer a small discount to encourage online payment.,4,DELIVERED
+52.26,Ship after confirmation,High predicted RTO risk for a first-time customer. Require confirmation and manual review.,0,DELIVERED
+41.02,Nudge to prepaid,Offer a small discount to encourage online payment.,0,RTO
+46.54,Nudge to prepaid,Offer a small discount to encourage online payment.,0,DELIVERED
+36.16,Nudge to prepaid,Offer a small discount to encourage online payment.,0,DELIVERED
+48.94,Nudge to prepaid,Offer a small discount to encourage online payment.,0,DELIVERED
+41.92,Nudge to prepaid,Offer a small discount to encourage online payment.,5,DELIVERED
+76.1,Hold / cancel,High predicted RTO risk. Hold for manual review before cancellation.,4,RTO
+43.32,Nudge to prepaid,Offer a small discount to encourage online payment.,0,RTO
+39.32,Nudge to prepaid,Offer a small discount to encourage online payment.,0,DELIVERED
+65.7,Ship after confirmation,High predicted RTO risk for a first-time customer. Require confirmation and manual review.,0,RTO
+46.45,Nudge to prepaid,Offer a small discount to encourage online payment.,0,DELIVERED
+31.37,Nudge to prepaid,Offer a small discount to encourage online payment.,4,DELIVERED
+43.6,Nudge to prepaid,Offer a small discount to encourage online payment.,4,DELIVERED
+52.0,Ship after confirmation,High predicted RTO risk for a first-time customer. Require confirmation and manual review.,0,DELIVERED
+32.54,Nudge to prepaid,Offer a small discount to encourage online payment.,5,DELIVERED
+62.19,Hold / cancel,High predicted RTO risk. Hold for manual review before cancellation.,2,RTO
+58.09,Ship after confirmation,High predicted RTO risk for a first-time customer. Require confirmation and manual review.,0,RTO
+39.53,Nudge to prepaid,Offer a small discount to encourage online payment.,0,RTO
+55.53,Ship after confirmation,High predicted RTO risk for a first-time customer. Require confirmation and manual review.,0,RTO
+46.67,Nudge to prepaid,Offer a small discount to encourage online payment.,0,RTO
+68.65,Ship after confirmation,High predicted RTO risk for a first-time customer. Require confirmation and manual review.,0,DELIVERED
+48.7,Nudge to prepaid,Offer a small discount to encourage online payment.,0,RTO
+43.59,Nudge to prepaid,Offer a small discount to encourage online payment.,0,DELIVERED
+36.87,Nudge to prepaid,Offer a small discount to encourage online payment.,2,DELIVERED
+39.24,Nudge to prepaid,Offer a small discount to encourage online payment.,3,DELIVERED
+42.04,Nudge to prepaid,Offer a small discount to encourage online payment.,0,DELIVERED
+28.39,Ship after confirmation,Customer confirmation is recommended before shipping.,3,DELIVERED
+66.68,Ship after confirmation,High predicted RTO risk for a first-time customer. Require confirmation and manual review.,0,DELIVERED
+65.51,Ship after confirmation,High predicted RTO risk for a first-time customer. Require confirmation and manual review.,0,RTO
+40.73,Nudge to prepaid,Offer a small discount to encourage online payment.,1,DELIVERED
+37.13,Nudge to prepaid,Offer a small discount to encourage online payment.,0,DELIVERED
+45.83,Nudge to prepaid,Offer a small discount to encourage online payment.,0,DELIVERED
+45.83,Nudge to prepaid,Offer a small discount to encourage online payment.,0,RTO
+69.62,Ship after confirmation,High predicted RTO risk for a first-time customer. Require confirmation and manual review.,0,RTO
+39.86,Nudge to prepaid,Offer a small discount to encourage online payment.,0,RTO
+33.58,Nudge to prepaid,Offer a small discount to encourage online payment.,0,DELIVERED
+69.55,Ship after confirmation,High predicted RTO risk for a first-time customer. Require confirmation and manual review.,0,DELIVERED
+53.04,Ship after confirmation,High predicted RTO risk for a first-time customer. Require confirmation and manual review.,0,DELIVERED
+37.89,Nudge to prepaid,Offer a small discount to encourage online payment.,1,DELIVERED
+45.56,Nudge to prepaid,Offer a small discount to encourage online payment.,0,DELIVERED
+69.54,Hold / cancel,High predicted RTO risk. Hold for manual review before cancellation.,3,RTO
+60.37,Ship after confirmation,High predicted RTO risk for a first-time customer. Require confirmation and manual review.,0,DELIVERED
+75.85,Ship after confirmation,High predicted RTO risk for a first-time customer. Require confirmation and manual review.,0,RTO
+37.02,Nudge to prepaid,Offer a small discount to encourage online payment.,0,DELIVERED
+69.68,Ship after confirmation,High predicted RTO risk for a first-time customer. Require confirmation and manual review.,0,RTO
+74.25,Hold / cancel,High predicted RTO risk. Hold for manual review before cancellation.,4,RTO
+68.94,Ship after confirmation,High predicted RTO risk for a first-time customer. Require confirmation and manual review.,0,RTO
+35.21,Nudge to prepaid,Offer a small discount to encourage online payment.,0,DELIVERED
+50.26,Ship after confirmation,High predicted RTO risk for a first-time customer. Require confirmation and manual review.,0,DELIVERED
+52.62,Ship after confirmation,High predicted RTO risk for a first-time customer. Require confirmation and manual review.,0,DELIVERED
+45.51,Nudge to prepaid,Offer a small discount to encourage online payment.,0,DELIVERED
+49.46,Nudge to prepaid,Offer a small discount to encourage online payment.,0,DELIVERED
+50.92,Hold / cancel,High predicted RTO risk. Hold for manual review before cancellation.,3,RTO
+35.16,Nudge to prepaid,Offer a small discount to encourage online payment.,0,DELIVERED
+42.7,Nudge to prepaid,Offer a small discount to encourage online payment.,0,DELIVERED
+49.64,Nudge to prepaid,Offer a small discount to encourage online payment.,0,DELIVERED
+67.23,Hold / cancel,High predicted RTO risk. Hold for manual review before cancellation.,3,DELIVERED
+65.43,Ship after confirmation,High predicted RTO risk for a first-time customer. Require confirmation and manual review.,0,DELIVERED
+30.25,Nudge to prepaid,Offer a small discount to encourage online payment.,0,DELIVERED
+45.67,Nudge to prepaid,Offer a small discount to encourage online payment.,0,DELIVERED
+48.42,Nudge to prepaid,Offer a small discount to encourage online payment.,0,RTO
+28.42,Ship after confirmation,Customer confirmation is recommended before shipping.,1,DELIVERED
+50.31,Ship after confirmation,High predicted RTO risk for a first-time customer. Require confirmation and manual review.,0,RTO
+37.54,Nudge to prepaid,Offer a small discount to encourage online payment.,5,RTO
+47.26,Nudge to prepaid,Offer a small discount to encourage online payment.,0,DELIVERED
+72.04,Ship after confirmation,High predicted RTO risk for a first-time customer. Require confirmation and manual review.,0,DELIVERED
+66.76,Ship after confirmation,High predicted RTO risk for a first-time customer. Require confirmation and manual review.,0,DELIVERED
+56.83,Ship after confirmation,High predicted RTO risk for a first-time customer. Require confirmation and manual review.,0,DELIVERED
+35.21,Nudge to prepaid,Offer a small discount to encourage online payment.,4,DELIVERED
+40.55,Nudge to prepaid,Offer a small discount to encourage online payment.,0,DELIVERED
+24.38,Ship after confirmation,Customer confirmation is recommended before shipping.,2,DELIVERED
+35.46,Nudge to prepaid,Offer a small discount to encourage online payment.,0,DELIVERED
+55.21,Ship after confirmation,High predicted RTO risk for a first-time customer. Require confirmation and manual review.,0,DELIVERED
+55.03,Ship after confirmation,High predicted RTO risk for a first-time customer. Require confirmation and manual review.,0,DELIVERED
+51.73,Ship after confirmation,High predicted RTO risk for a first-time customer. Require confirmation and manual review.,0,RTO
+57.28,Ship after confirmation,High predicted RTO risk for a first-time customer. Require confirmation and manual review.,0,RTO
+53.68,Ship after confirmation,High predicted RTO risk for a first-time customer. Require confirmation and manual review.,0,DELIVERED
+48.87,Nudge to prepaid,Offer a small discount to encourage online payment.,0,DELIVERED
+52.72,Ship after confirmation,High predicted RTO risk for a first-time customer. Require confirmation and manual review.,0,DELIVERED
+44.39,Nudge to prepaid,Offer a small discount to encourage online payment.,0,DELIVERED
+65.02,Hold / cancel,High predicted RTO risk. Hold for manual review before cancellation.,3,DELIVERED
+42.95,Nudge to prepaid,Offer a small discount to encourage online payment.,0,RTO
+48.65,Nudge to prepaid,Offer a small discount to encourage online payment.,0,RTO
+39.87,Nudge to prepaid,Offer a small discount to encourage online payment.,0,DELIVERED
+53.01,Ship after confirmation,High predicted RTO risk for a first-time customer. Require confirmation and manual review.,0,RTO
+42.05,Nudge to prepaid,Offer a small discount to encourage online payment.,0,DELIVERED
+55.1,Ship after confirmation,High predicted RTO risk for a first-time customer. Require confirmation and manual review.,0,DELIVERED
+44.93,Nudge to prepaid,Offer a small discount to encourage online payment.,0,RTO
+40.76,Nudge to prepaid,Offer a small discount to encourage online payment.,0,DELIVERED
+46.2,Nudge to prepaid,Offer a small discount to encourage online payment.,0,DELIVERED
+38.95,Nudge to prepaid,Offer a small discount to encourage online payment.,5,DELIVERED
+53.71,Ship after confirmation,High predicted RTO risk for a first-time customer. Require confirmation and manual review.,0,DELIVERED
+40.45,Nudge to prepaid,Offer a small discount to encourage online payment.,0,RTO
+40.54,Nudge to prepaid,Offer a small discount to encourage online payment.,0,DELIVERED
+57.88,Hold / cancel,High predicted RTO risk. Hold for manual review before cancellation.,5,DELIVERED
+62.15,Hold / cancel,High predicted RTO risk. Hold for manual review before cancellation.,5,DELIVERED
+78.27,Ship after confirmation,High predicted RTO risk for a first-time customer. Require confirmation and manual review.,0,RTO
+37.04,Nudge to prepaid,Offer a small discount to encourage online payment.,3,DELIVERED
+39.9,Nudge to prepaid,Offer a small discount to encourage online payment.,0,DELIVERED
+53.24,Ship after confirmation,High predicted RTO risk for a first-time customer. Require confirmation and manual review.,0,RTO
+59.39,Ship after confirmation,High predicted RTO risk for a first-time customer. Require confirmation and manual review.,0,RTO
+54.09,Ship after confirmation,High predicted RTO risk for a first-time customer. Require confirmation and manual review.,0,RTO
+34.85,Nudge to prepaid,Offer a small discount to encourage online payment.,0,DELIVERED
+39.49,Nudge to prepaid,Offer a small discount to encourage online payment.,0,DELIVERED
+47.74,Nudge to prepaid,Offer a small discount to encourage online payment.,0,DELIVERED
+47.14,Nudge to prepaid,Offer a small discount to encourage online payment.,0,DELIVERED
+45.33,Nudge to prepaid,Offer a small discount to encourage online payment.,0,DELIVERED
+31.37,Nudge to prepaid,Offer a small discount to encourage online payment.,0,DELIVERED
+71.22,Ship after confirmation,High predicted RTO risk for a first-time customer. Require confirmation and manual review.,0,DELIVERED
+46.4,Nudge to prepaid,Offer a small discount to encourage online payment.,3,RTO
+20.82,Ship after confirmation,Customer confirmation is recommended before shipping.,2,DELIVERED
+33.25,Nudge to prepaid,Offer a small discount to encourage online payment.,0,DELIVERED
+53.07,Ship after confirmation,High predicted RTO risk for a first-time customer. Require confirmation and manual review.,0,RTO
+48.7,Nudge to prepaid,Offer a small discount to encourage online payment.,0,DELIVERED
+51.0,Ship after confirmation,High predicted RTO risk for a first-time customer. Require confirmation and manual review.,0,DELIVERED
+49.14,Nudge to prepaid,Offer a small discount to encourage online payment.,0,RTO
+48.75,Nudge to prepaid,Offer a small discount to encourage online payment.,0,DELIVERED
+52.36,Ship after confirmation,High predicted RTO risk for a first-time customer. Require confirmation and manual review.,0,DELIVERED
+50.84,Ship after confirmation,High predicted RTO risk for a first-time customer. Require confirmation and manual review.,0,DELIVERED
+43.18,Nudge to prepaid,Offer a small discount to encourage online payment.,0,DELIVERED
+35.6,Nudge to prepaid,Offer a small discount to encourage online payment.,0,DELIVERED
+47.17,Nudge to prepaid,Offer a small discount to encourage online payment.,0,RTO
+36.57,Nudge to prepaid,Offer a small discount to encourage online payment.,2,DELIVERED
+35.25,Nudge to prepaid,Offer a small discount to encourage online payment.,0,DELIVERED
+37.13,Nudge to prepaid,Offer a small discount to encourage online payment.,0,DELIVERED
+55.1,Ship after confirmation,High predicted RTO risk for a first-time customer. Require confirmation and manual review.,0,DELIVERED
+70.42,Ship after confirmation,High predicted RTO risk for a first-time customer. Require confirmation and manual review.,0,DELIVERED
+42.62,Nudge to prepaid,Offer a small discount to encourage online payment.,4,DELIVERED
+47.46,Nudge to prepaid,Offer a small discount to encourage online payment.,0,DELIVERED
+47.59,Nudge to prepaid,Offer a small discount to encourage online payment.,0,DELIVERED
+24.55,Ship after confirmation,Customer confirmation is recommended before shipping.,3,DELIVERED
+53.24,Ship after confirmation,High predicted RTO risk for a first-time customer. Require confirmation and manual review.,0,DELIVERED
+53.29,Ship after confirmation,High predicted RTO risk for a first-time customer. Require confirmation and manual review.,0,DELIVERED
+82.69,Ship after confirmation,High predicted RTO risk for a first-time customer. Require confirmation and manual review.,0,RTO
+34.29,Nudge to prepaid,Offer a small discount to encourage online payment.,0,DELIVERED
+47.74,Nudge to prepaid,Offer a small discount to encourage online payment.,0,DELIVERED
+39.21,Nudge to prepaid,Offer a small discount to encourage online payment.,0,DELIVERED
+43.94,Nudge to prepaid,Offer a small discount to encourage online payment.,0,DELIVERED
+66.63,Ship after confirmation,High predicted RTO risk for a first-time customer. Require confirmation and manual review.,0,RTO
+47.03,Nudge to prepaid,Offer a small discount to encourage online payment.,0,DELIVERED
+30.3,Nudge to prepaid,Offer a small discount to encourage online payment.,0,DELIVERED
+31.26,Nudge to prepaid,Offer a small discount to encourage online payment.,2,DELIVERED
+50.31,Ship after confirmation,High predicted RTO risk for a first-time customer. Require confirmation and manual review.,0,DELIVERED
+24.86,Ship after confirmation,Customer confirmation is recommended before shipping.,5,DELIVERED
+54.59,Ship after confirmation,High predicted RTO risk for a first-time customer. Require confirmation and manual review.,0,RTO
+53.24,Ship after confirmation,High predicted RTO risk for a first-time customer. Require confirmation and manual review.,0,DELIVERED
+36.59,Nudge to prepaid,Offer a small discount to encourage online payment.,2,DELIVERED
+40.91,Nudge to prepaid,Offer a small discount to encourage online payment.,0,DELIVERED
+46.89,Nudge to prepaid,Offer a small discount to encourage online payment.,0,DELIVERED
+53.61,Ship after confirmation,High predicted RTO risk for a first-time customer. Require confirmation and manual review.,0,DELIVERED
+33.22,Nudge to prepaid,Offer a small discount to encourage online payment.,1,DELIVERED
+49.45,Nudge to prepaid,Offer a small discount to encourage online payment.,0,RTO
+45.86,Nudge to prepaid,Offer a small discount to encourage online payment.,0,RTO
+63.56,Hold / cancel,High predicted RTO risk. Hold for manual review before cancellation.,4,RTO
+44.53,Nudge to prepaid,Offer a small discount to encourage online payment.,0,DELIVERED
+30.72,Nudge to prepaid,Offer a small discount to encourage online payment.,3,DELIVERED
+34.29,Nudge to prepaid,Offer a small discount to encourage online payment.,0,DELIVERED
+48.95,Nudge to prepaid,Offer a small discount to encourage online payment.,0,DELIVERED
+48.32,Nudge to prepaid,Offer a small discount to encourage online payment.,0,RTO
+51.18,Ship after confirmation,High predicted RTO risk for a first-time customer. Require confirmation and manual review.,0,DELIVERED
+66.08,Ship after confirmation,High predicted RTO risk for a first-time customer. Require confirmation and manual review.,0,DELIVERED
+39.34,Nudge to prepaid,Offer a small discount to encourage online payment.,0,RTO
+29.57,Ship after confirmation,Customer confirmation is recommended before shipping.,3,DELIVERED
+44.25,Nudge to prepaid,Offer a small discount to encourage online payment.,0,RTO
+21.76,Ship after confirmation,Customer confirmation is recommended before shipping.,5,DELIVERED
+29.27,Ship after confirmation,Customer confirmation is recommended before shipping.,0,DELIVERED
+53.68,Ship after confirmation,High predicted RTO risk for a first-time customer. Require confirmation and manual review.,0,DELIVERED
+50.96,Ship after confirmation,High predicted RTO risk for a first-time customer. Require confirmation and manual review.,0,DELIVERED
+45.95,Nudge to prepaid,Offer a small discount to encourage online payment.,0,DELIVERED
+22.74,Ship after confirmation,Customer confirmation is recommended before shipping.,0,DELIVERED
+46.79,Nudge to prepaid,Offer a small discount to encourage online payment.,0,DELIVERED
+47.02,Nudge to prepaid,Offer a small discount to encourage online payment.,0,DELIVERED
+51.74,Ship after confirmation,High predicted RTO risk for a first-time customer. Require confirmation and manual review.,0,RTO
+25.81,Ship after confirmation,Customer confirmation is recommended before shipping.,0,RTO
+52.19,Hold / cancel,High predicted RTO risk. Hold for manual review before cancellation.,5,RTO
+33.02,Nudge to prepaid,Offer a small discount to encourage online payment.,1,DELIVERED
+58.69,Ship after confirmation,High predicted RTO risk for a first-time customer. Require confirmation and manual review.,0,RTO
+38.68,Nudge to prepaid,Offer a small discount to encourage online payment.,0,RTO
+52.11,Ship after confirmation,High predicted RTO risk for a first-time customer. Require confirmation and manual review.,0,RTO
+73.41,Ship after confirmation,High predicted RTO risk for a first-time customer. Require confirmation and manual review.,0,DELIVERED
+41.48,Nudge to prepaid,Offer a small discount to encourage online payment.,0,RTO
+48.47,Nudge to prepaid,Offer a small discount to encourage online payment.,0,DELIVERED
+50.82,Ship after confirmation,High predicted RTO risk for a first-time customer. Require confirmation and manual review.,0,DELIVERED
+44.67,Nudge to prepaid,Offer a small discount to encourage online payment.,0,DELIVERED
+31.63,Nudge to prepaid,Offer a small discount to encourage online payment.,4,DELIVERED
+46.18,Nudge to prepaid,Offer a small discount to encourage online payment.,0,RTO
+35.75,Nudge to prepaid,Offer a small discount to encourage online payment.,0,DELIVERED
+52.83,Ship after confirmation,High predicted RTO risk for a first-time customer. Require confirmation and manual review.,0,RTO
+48.47,Nudge to prepaid,Offer a small discount to encourage online payment.,0,DELIVERED
+53.61,Ship after confirmation,High predicted RTO risk for a first-time customer. Require confirmation and manual review.,0,DELIVERED
+37.82,Nudge to prepaid,Offer a small discount to encourage online payment.,0,RTO
+68.67,Ship after confirmation,High predicted RTO risk for a first-time customer. Require confirmation and manual review.,0,DELIVERED
+33.68,Nudge to prepaid,Offer a small discount to encourage online payment.,0,DELIVERED
+34.96,Nudge to prepaid,Offer a small discount to encourage online payment.,0,DELIVERED
+50.35,Ship after confirmation,High predicted RTO risk for a first-time customer. Require confirmation and manual review.,0,DELIVERED
+66.04,Ship after confirmation,High predicted RTO risk for a first-time customer. Require confirmation and manual review.,0,DELIVERED
+43.07,Nudge to prepaid,Offer a small discount to encourage online payment.,0,RTO
+45.56,Nudge to prepaid,Offer a small discount to encourage online payment.,0,DELIVERED
+42.62,Nudge to prepaid,Offer a small discount to encourage online payment.,3,DELIVERED
+40.69,Nudge to prepaid,Offer a small discount to encourage online payment.,0,RTO
+30.13,Nudge to prepaid,Offer a small discount to encourage online payment.,0,RTO
+28.61,Ship after confirmation,Customer confirmation is recommended before shipping.,1,DELIVERED
+70.05,Ship after confirmation,High predicted RTO risk for a first-time customer. Require confirmation and manual review.,0,RTO
+48.81,Nudge to prepaid,Offer a small discount to encourage online payment.,0,DELIVERED
+36.96,Nudge to prepaid,Offer a small discount to encourage online payment.,0,DELIVERED
+37.48,Nudge to prepaid,Offer a small discount to encourage online payment.,0,DELIVERED
+46.96,Nudge to prepaid,Offer a small discount to encourage online payment.,5,DELIVERED
+49.55,Nudge to prepaid,Offer a small discount to encourage online payment.,0,DELIVERED
+45.08,Nudge to prepaid,Offer a small discount to encourage online payment.,5,DELIVERED
+43.45,Nudge to prepaid,Offer a small discount to encourage online payment.,0,DELIVERED
+40.36,Nudge to prepaid,Offer a small discount to encourage online payment.,0,DELIVERED
+65.96,Ship after confirmation,High predicted RTO risk for a first-time customer. Require confirmation and manual review.,0,RTO
+54.12,Hold / cancel,High predicted RTO risk. Hold for manual review before cancellation.,1,RTO
+41.74,Nudge to prepaid,Offer a small discount to encourage online payment.,0,DELIVERED
+66.06,Ship after confirmation,High predicted RTO risk for a first-time customer. Require confirmation and manual review.,0,DELIVERED
+44.25,Nudge to prepaid,Offer a small discount to encourage online payment.,0,DELIVERED
+46.28,Nudge to prepaid,Offer a small discount to encourage online payment.,0,DELIVERED
+44.13,Nudge to prepaid,Offer a small discount to encourage online payment.,4,DELIVERED
+39.34,Nudge to prepaid,Offer a small discount to encourage online payment.,0,DELIVERED
+51.34,Ship after confirmation,High predicted RTO risk for a first-time customer. Require confirmation and manual review.,0,DELIVERED
+61.43,Ship after confirmation,High predicted RTO risk for a first-time customer. Require confirmation and manual review.,0,DELIVERED
+48.65,Nudge to prepaid,Offer a small discount to encourage online payment.,0,DELIVERED
+45.47,Nudge to prepaid,Offer a small discount to encourage online payment.,0,DELIVERED
+41.65,Nudge to prepaid,Offer a small discount to encourage online payment.,0,DELIVERED
+43.88,Nudge to prepaid,Offer a small discount to encourage online payment.,0,RTO
+46.54,Nudge to prepaid,Offer a small discount to encourage online payment.,0,DELIVERED
+41.15,Nudge to prepaid,Offer a small discount to encourage online payment.,0,DELIVERED
+74.49,Ship after confirmation,High predicted RTO risk for a first-time customer. Require confirmation and manual review.,0,DELIVERED
+50.66,Ship after confirmation,High predicted RTO risk for a first-time customer. Require confirmation and manual review.,0,DELIVERED
+44.53,Nudge to prepaid,Offer a small discount to encourage online payment.,0,DELIVERED
+47.1,Nudge to prepaid,Offer a small discount to encourage online payment.,0,DELIVERED
+46.34,Nudge to prepaid,Offer a small discount to encourage online payment.,3,RTO
+52.98,Ship after confirmation,High predicted RTO risk for a first-time customer. Require confirmation and manual review.,0,DELIVERED
+69.44,Hold / cancel,High predicted RTO risk. Hold for manual review before cancellation.,5,RTO
+53.03,Ship after confirmation,High predicted RTO risk for a first-time customer. Require confirmation and manual review.,0,RTO
+35.21,Nudge to prepaid,Offer a small discount to encourage online payment.,0,DELIVERED
+45.82,Nudge to prepaid,Offer a small discount to encourage online payment.,0,DELIVERED
+57.04,Hold / cancel,High predicted RTO risk. Hold for manual review before cancellation.,1,DELIVERED
+75.49,Hold / cancel,High predicted RTO risk. Hold for manual review before cancellation.,2,RTO
+58.1,Ship after confirmation,High predicted RTO risk for a first-time customer. Require confirmation and manual review.,0,DELIVERED
+46.71,Nudge to prepaid,Offer a small discount to encourage online payment.,0,DELIVERED
+44.23,Nudge to prepaid,Offer a small discount to encourage online payment.,0,DELIVERED
+23.7,Ship after confirmation,Customer confirmation is recommended before shipping.,2,DELIVERED
+47.1,Nudge to prepaid,Offer a small discount to encourage online payment.,0,DELIVERED
+43.0,Nudge to prepaid,Offer a small discount to encourage online payment.,0,DELIVERED
+32.23,Nudge to prepaid,Offer a small discount to encourage online payment.,5,DELIVERED
+48.85,Nudge to prepaid,Offer a small discount to encourage online payment.,0,DELIVERED
+43.59,Nudge to prepaid,Offer a small discount to encourage online payment.,0,DELIVERED
+45.1,Nudge to prepaid,Offer a small discount to encourage online payment.,0,RTO
+73.14,Ship after confirmation,High predicted RTO risk for a first-time customer. Require confirmation and manual review.,0,DELIVERED
+45.33,Nudge to prepaid,Offer a small discount to encourage online payment.,0,DELIVERED
+54.21,Ship after confirmation,High predicted RTO risk for a first-time customer. Require confirmation and manual review.,0,RTO
+53.04,Ship after confirmation,High predicted RTO risk for a first-time customer. Require confirmation and manual review.,0,DELIVERED
+52.28,Hold / cancel,High predicted RTO risk. Hold for manual review before cancellation.,5,DELIVERED
+53.24,Ship after confirmation,High predicted RTO risk for a first-time customer. Require confirmation and manual review.,0,DELIVERED
+42.45,Nudge to prepaid,Offer a small discount to encourage online payment.,1,DELIVERED
+48.7,Nudge to prepaid,Offer a small discount to encourage online payment.,0,DELIVERED
+44.77,Nudge to prepaid,Offer a small discount to encourage online payment.,3,DELIVERED
+49.55,Nudge to prepaid,Offer a small discount to encourage online payment.,0,DELIVERED
+36.41,Nudge to prepaid,Offer a small discount to encourage online payment.,0,RTO
+36.24,Nudge to prepaid,Offer a small discount to encourage online payment.,4,DELIVERED
+51.74,Ship after confirmation,High predicted RTO risk for a first-time customer. Require confirmation and manual review.,0,DELIVERED
+37.07,Nudge to prepaid,Offer a small discount to encourage online payment.,0,DELIVERED
+55.1,Ship after confirmation,High predicted RTO risk for a first-time customer. Require confirmation and manual review.,0,DELIVERED
+34.78,Nudge to prepaid,Offer a small discount to encourage online payment.,1,DELIVERED
+56.25,Ship after confirmation,High predicted RTO risk for a first-time customer. Require confirmation and manual review.,0,DELIVERED
+44.47,Nudge to prepaid,Offer a small discount to encourage online payment.,0,DELIVERED
+26.83,Ship after confirmation,Customer confirmation is recommended before shipping.,2,DELIVERED
+42.11,Nudge to prepaid,Offer a small discount to encourage online payment.,0,RTO
+47.44,Nudge to prepaid,Offer a small discount to encourage online payment.,0,DELIVERED
+39.73,Nudge to prepaid,Offer a small discount to encourage online payment.,0,DELIVERED
+45.75,Nudge to prepaid,Offer a small discount to encourage online payment.,0,DELIVERED
+72.29,Hold / cancel,High predicted RTO risk. Hold for manual review before cancellation.,3,RTO
+28.56,Ship after confirmation,Customer confirmation is recommended before shipping.,0,DELIVERED
+38.68,Nudge to prepaid,Offer a small discount to encourage online payment.,2,DELIVERED
+37.73,Nudge to prepaid,Offer a small discount to encourage online payment.,0,RTO
+39.34,Nudge to prepaid,Offer a small discount to encourage online payment.,0,DELIVERED
+49.42,Nudge to prepaid,Offer a small discount to encourage online payment.,0,DELIVERED
+42.91,Nudge to prepaid,Offer a small discount to encourage online payment.,0,DELIVERED
+43.59,Nudge to prepaid,Offer a small discount to encourage online payment.,0,DELIVERED
+57.37,Ship after confirmation,High predicted RTO risk for a first-time customer. Require confirmation and manual review.,0,RTO
+46.67,Nudge to prepaid,Offer a small discount to encourage online payment.,0,DELIVERED
+35.29,Nudge to prepaid,Offer a small discount to encourage online payment.,0,DELIVERED
+45.95,Nudge to prepaid,Offer a small discount to encourage online payment.,0,RTO
+64.92,Hold / cancel,High predicted RTO risk. Hold for manual review before cancellation.,5,RTO
+55.91,Hold / cancel,High predicted RTO risk. Hold for manual review before cancellation.,1,DELIVERED
+66.39,Ship after confirmation,High predicted RTO risk for a first-time customer. Require confirmation and manual review.,0,DELIVERED
+43.47,Nudge to prepaid,Offer a small discount to encourage online payment.,0,DELIVERED
+37.15,Nudge to prepaid,Offer a small discount to encourage online payment.,0,DELIVERED
+23.08,Ship after confirmation,Customer confirmation is recommended before shipping.,2,DELIVERED
+59.33,Ship after confirmation,High predicted RTO risk for a first-time customer. Require confirmation and manual review.,0,DELIVERED
+40.55,Nudge to prepaid,Offer a small discount to encourage online payment.,0,RTO
+59.24,Hold / cancel,High predicted RTO risk. Hold for manual review before cancellation.,3,RTO
+66.28,Ship after confirmation,High predicted RTO risk for a first-time customer. Require confirmation and manual review.,0,RTO
+39.86,Nudge to prepaid,Offer a small discount to encourage online payment.,0,RTO
+31.27,Nudge to prepaid,Offer a small discount to encourage online payment.,0,DELIVERED
+47.31,Nudge to prepaid,Offer a small discount to encourage online payment.,0,RTO
+48.9,Nudge to prepaid,Offer a small discount to encourage online payment.,0,DELIVERED
+45.27,Nudge to prepaid,Offer a small discount to encourage online payment.,0,RTO
+46.53,Nudge to prepaid,Offer a small discount to encourage online payment.,0,RTO
+42.04,Nudge to prepaid,Offer a small discount to encourage online payment.,0,DELIVERED
+42.17,Nudge to prepaid,Offer a small discount to encourage online payment.,0,RTO
+58.92,Ship after confirmation,High predicted RTO risk for a first-time customer. Require confirmation and manual review.,0,RTO
+47.48,Nudge to prepaid,Offer a small discount to encourage online payment.,0,DELIVERED
+44.29,Nudge to prepaid,Offer a small discount to encourage online payment.,0,DELIVERED
+47.46,Nudge to prepaid,Offer a small discount to encourage online payment.,0,RTO
+72.24,Ship after confirmation,High predicted RTO risk for a first-time customer. Require confirmation and manual review.,0,DELIVERED
+44.65,Nudge to prepaid,Offer a small discount to encourage online payment.,5,DELIVERED
+41.15,Nudge to prepaid,Offer a small discount to encourage online payment.,0,DELIVERED
+40.12,Nudge to prepaid,Offer a small discount to encourage online payment.,0,DELIVERED
+32.66,Nudge to prepaid,Offer a small discount to encourage online payment.,4,DELIVERED
+53.68,Ship after confirmation,High predicted RTO risk for a first-time customer. Require confirmation and manual review.,0,DELIVERED
+48.33,Nudge to prepaid,Offer a small discount to encourage online payment.,0,RTO
+55.42,Ship after confirmation,High predicted RTO risk for a first-time customer. Require confirmation and manual review.,0,DELIVERED
+71.71,Ship after confirmation,High predicted RTO risk for a first-time customer. Require confirmation and manual review.,0,RTO
+33.32,Nudge to prepaid,Offer a small discount to encourage online payment.,5,RTO
+37.14,Nudge to prepaid,Offer a small discount to encourage online payment.,2,DELIVERED
+58.67,Ship after confirmation,High predicted RTO risk for a first-time customer. Require confirmation and manual review.,0,RTO
+22.99,Ship after confirmation,Customer confirmation is recommended before shipping.,0,DELIVERED
+32.24,Nudge to prepaid,Offer a small discount to encourage online payment.,2,DELIVERED
+34.57,Nudge to prepaid,Offer a small discount to encourage online payment.,0,DELIVERED
+28.33,Ship after confirmation,Customer confirmation is recommended before shipping.,2,DELIVERED
+50.81,Ship after confirmation,High predicted RTO risk for a first-time customer. Require confirmation and manual review.,0,DELIVERED
+36.03,Nudge to prepaid,Offer a small discount to encourage online payment.,5,DELIVERED
+73.41,Ship after confirmation,High predicted RTO risk for a first-time customer. Require confirmation and manual review.,0,RTO
+45.33,Nudge to prepaid,Offer a small discount to encourage online payment.,0,RTO
+54.09,Ship after confirmation,High predicted RTO risk for a first-time customer. Require confirmation and manual review.,0,DELIVERED
+33.47,Nudge to prepaid,Offer a small discount to encourage online payment.,4,DELIVERED
+46.61,Nudge to prepaid,Offer a small discount to encourage online payment.,0,DELIVERED
+56.02,Hold / cancel,High predicted RTO risk. Hold for manual review before cancellation.,3,DELIVERED
+35.21,Nudge to prepaid,Offer a small discount to encourage online payment.,0,RTO
+40.76,Nudge to prepaid,Offer a small discount to encourage online payment.,0,RTO
+60.52,Ship after confirmation,High predicted RTO risk for a first-time customer. Require confirmation and manual review.,0,DELIVERED
+43.16,Nudge to prepaid,Offer a small discount to encourage online payment.,0,DELIVERED
+54.34,Ship after confirmation,High predicted RTO risk for a first-time customer. Require confirmation and manual review.,0,RTO
+57.65,Hold / cancel,High predicted RTO risk. Hold for manual review before cancellation.,1,RTO
+60.53,Hold / cancel,High predicted RTO risk. Hold for manual review before cancellation.,3,RTO
+54.4,Ship after confirmation,High predicted RTO risk for a first-time customer. Require confirmation and manual review.,0,RTO
+55.7,Hold / cancel,High predicted RTO risk. Hold for manual review before cancellation.,1,RTO
+55.1,Ship after confirmation,High predicted RTO risk for a first-time customer. Require confirmation and manual review.,0,DELIVERED
+37.32,Nudge to prepaid,Offer a small discount to encourage online payment.,0,DELIVERED
+41.71,Nudge to prepaid,Offer a small discount to encourage online payment.,0,RTO
+33.19,Nudge to prepaid,Offer a small discount to encourage online payment.,5,DELIVERED
+24.02,Ship after confirmation,Customer confirmation is recommended before shipping.,2,DELIVERED
+49.7,Nudge to prepaid,Offer a small discount to encourage online payment.,0,DELIVERED
+43.2,Nudge to prepaid,Offer a small discount to encourage online payment.,0,DELIVERED
+49.04,Nudge to prepaid,Offer a small discount to encourage online payment.,0,DELIVERED
+48.88,Nudge to prepaid,Offer a small discount to encourage online payment.,0,DELIVERED
+52.34,Ship after confirmation,High predicted RTO risk for a first-time customer. Require confirmation and manual review.,0,RTO
+44.25,Nudge to prepaid,Offer a small discount to encourage online payment.,0,DELIVERED
+78.06,Ship after confirmation,High predicted RTO risk for a first-time customer. Require confirmation and manual review.,0,DELIVERED
+41.02,Nudge to prepaid,Offer a small discount to encourage online payment.,0,DELIVERED
+41.83,Nudge to prepaid,Offer a small discount to encourage online payment.,0,DELIVERED
+44.51,Nudge to prepaid,Offer a small discount to encourage online payment.,0,DELIVERED
+30.86,Nudge to prepaid,Offer a small discount to encourage online payment.,0,DELIVERED
+39.0,Nudge to prepaid,Offer a small discount to encourage online payment.,0,DELIVERED
+79.7,Ship after confirmation,High predicted RTO risk for a first-time customer. Require confirmation and manual review.,0,RTO
+37.76,Nudge to prepaid,Offer a small discount to encourage online payment.,5,DELIVERED
